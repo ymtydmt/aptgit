@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-IID78CH9",
+    "children" : [ {
+      "name" : "32168-MainThread",
+      "children" : [ {
+        "name" : "test_login001",
+        "uid" : "f12b784068253bb1",
+        "parentUid" : "26897640e156c49ca1e2b49771759d90",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614850416854,
+          "stop" : 1614850458718,
+          "duration" : 41864
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "26897640e156c49ca1e2b49771759d90"
+    } ],
+    "uid" : "71f1085e52627b4cf442774dfe8bd6e6"
+  } ]
+}

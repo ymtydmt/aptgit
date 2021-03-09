@@ -1,0 +1,58 @@
+{
+  "bd5ac56d1515f20fffef353e3d099502" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 67,
+      "unknown" : 0,
+      "total" : 67
+    },
+    "items" : [ {
+      "uid" : "86059f77b9201a52",
+      "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/74/allure/#testresult/86059f77b9201a52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614850416854,
+        "stop" : 1614850458718,
+        "duration" : 41864
+      }
+    }, {
+      "uid" : "35f9d602436e4fe3",
+      "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/73/allure/#testresult/35f9d602436e4fe3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614850416854,
+        "stop" : 1614850458718,
+        "duration" : 41864
+      }
+    }, {
+      "uid" : "2631c3937e6d849f",
+      "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/72/allure/#testresult/2631c3937e6d849f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614850416854,
+        "stop" : 1614850458718,
+        "duration" : 41864
+      }
+    }, {
+      "uid" : "b658fdfc8eba2e55",
+      "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/71/allure/#testresult/b658fdfc8eba2e55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614850416854,
+        "stop" : 1614850458718,
+        "duration" : 41864
+      }
+    }, {
+      "uid" : "4331af8b6cae844e",
+      "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/70/allure/#testresult/4331af8b6cae844e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614850416854,
+        "stop" : 1614850458718,
+        "duration" : 41864
+      }
+    } ]
+  }
+}

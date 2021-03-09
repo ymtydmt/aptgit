@@ -1,0 +1,101 @@
+[ {
+  "buildOrder" : 74,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/74/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 73,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/73/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 72,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/72/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 71,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/71/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 70,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/70/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 69,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/69/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 68,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/68/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 67,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/67/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 66,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/66/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 65,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/65/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 64,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/64/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 63,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/63/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 62,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/62/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 61,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/61/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 60,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/60/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 59,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/59/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 58,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/58/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 57,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/57/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 56,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/56/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 55,
+  "reportUrl" : "http://localhost:8080/jenkins/job/tianshu/55/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+} ]
